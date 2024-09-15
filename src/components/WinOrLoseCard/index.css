@@ -1,0 +1,18 @@
+/* Write your code here. */
+#button {
+  padding: 12px;
+  background-color: #ffce27;
+  border-radius: 12px;
+}
+.scoreSatus {
+  color: white;
+}
+
+.status {
+  color: white;
+}
+
+.length {
+  color: rgb(11, 80, 207);
+  margin-bottom: 8px;
+}

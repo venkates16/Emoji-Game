@@ -1,0 +1,31 @@
+.emojiCon {
+  background-color: transparent;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.cardEmoji {
+  background-color: transparent;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 12px;
+}
+@media screen and (max-width: 575px) {
+  .emojiCon {
+    background-color: transparent;
+    margin: 10px;
+    cursor: pointer;
+    width: 90px;
+    border-radius: 12px;
+  }
+  .img {
+    width: 50px;
+  }
+  cardEmoji {
+    background-color: transparent;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 12px;
+  }
+}

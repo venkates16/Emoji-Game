@@ -1,0 +1,28 @@
+/* Write your code here. */
+.navImg {
+  display: flex;
+}
+span {
+  margin-top: 15px;
+  color: white;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.topScore {
+  margin-top: 15px;
+  color: white;
+}
+
+.score {
+  margin-top: 15px;
+  color: white;
+  margin-right: 14px;
+}
+.scoretext {
+  display: flex;
+  margin-left: 12px;
+}
